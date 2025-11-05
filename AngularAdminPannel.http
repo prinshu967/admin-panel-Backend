@@ -1,0 +1,6 @@
+@AngularAdminPannel_HostAddress = http://localhost:5003
+
+GET {{AngularAdminPannel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
